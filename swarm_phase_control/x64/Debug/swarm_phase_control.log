@@ -1,0 +1,27 @@
+﻿  Source.cpp
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\microrobot.h(121): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\microrobot.h(236): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\microrobot.h(237): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\microrobot.h(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\microrobot.h(250): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\microrobot.h(309): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\microrobot.h(313): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\controller.h(246): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\controller.h(370): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\controller.h(371): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\controller.h(471): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\controller.h(472): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\controller.h(776): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\controller.h(777): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\controller.h(913): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\controller.h(914): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\controller.h(1146): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\controller.h(1147): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\frameprocessor.h(375): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\frameprocessor.h(414): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\frameprocessor.h(613): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\frameprocessor.h(680): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\frameprocessor.h(746): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\microrobot.h(317): warning C4715: 'microRobot::find_phase': not all control paths return a value
+  swarm_phase_control.vcxproj -> D:\OneDrive - purdue.edu\Research\Serpentine Coil\Benji\Visual\repos\swarm_phase_control\x64\Debug\swarm_phase_control.exe
+  swarm_phase_control.vcxproj -> D:\OneDrive - purdue.edu\Research\Serpentine Coil\Benji\Visual\repos\swarm_phase_control\x64\Debug\swarm_phase_control.pdb (Partial PDB)
