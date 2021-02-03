@@ -223,7 +223,7 @@ public:
 		d3 = (y % 100) / 10;
 		d4 = y % 10;
 		image_name = img_file + to_string(d1) + to_string(d2) + to_string(d3) + to_string(d4) + ".bmp";
-		cv::imwrite(image_name, cur_frame);
+		cv::imwrite(image_name, frame);
 	}
 
 	void Morphology_Operations(int, void*)
@@ -514,6 +514,7 @@ public:
 		image_name = frame_base_add + to_string(d1) + to_string(d2) + to_string(d3) + to_string(d4) + ".bmp";
 
 		frame_temp = imread(image_name);
+		
 		cur_frame = frame_temp(crop_rect);
 	}
 

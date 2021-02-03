@@ -51,7 +51,7 @@ int main()
 			//Set process as frames from the computer
 			processor.setFrameProcess("D:/OneDrive - purdue.edu/Research/Serpentine Coil/Benji/Visual/repos/LIVE_RESULTS_CONT/frame_"); //For pointgrey flycap
 			//If image needs to be cropped, specify here
-			//processor.crop_frame(217, 116, 768, 747);
+			processor.crop_frame(222, 193, 904, 880);
 			//Set up arduino for auto Control
 			processor.set_arduino("\\\\.\\COM8", false, number_of_goals);
 
@@ -72,6 +72,8 @@ int main()
 			cin >> quad_select;
 			//processor.setFrameProcess(fig_path, 275, 350);
 			processor.setFrameProcess("D:/OneDrive - purdue.edu/Research/Serpentine Coil/Benji/Visual/repos/LIVE_RESULTS_CONT/frame_"); //For pointgrey flycap
+			//If image needs to be cropped, specify here
+			processor.crop_frame(222, 193, 682, 687);
 			processor.set_arduino("\\\\.\\COM8", true, quad_select);
 			//processor.run(pause_time, zoom_multiplier);
 			processor.set_numRobots(number_of_robots);
