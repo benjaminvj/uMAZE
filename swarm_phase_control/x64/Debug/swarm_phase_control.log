@@ -22,6 +22,7 @@ d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase
 d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\frameprocessor.h(614): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
 d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\frameprocessor.h(681): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\frameprocessor.h(747): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\source.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'float'
 d:\onedrive - purdue.edu\research\serpentine coil\benji\visual\repos\swarm_phase_control\swarm_phase_control\microrobot.h(317): warning C4715: 'microRobot::find_phase': not all control paths return a value
   swarm_phase_control.vcxproj -> D:\OneDrive - purdue.edu\Research\Serpentine Coil\Benji\Visual\repos\swarm_phase_control\x64\Debug\swarm_phase_control.exe
   swarm_phase_control.vcxproj -> D:\OneDrive - purdue.edu\Research\Serpentine Coil\Benji\Visual\repos\swarm_phase_control\x64\Debug\swarm_phase_control.pdb (Partial PDB)

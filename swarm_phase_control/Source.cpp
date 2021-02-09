@@ -21,7 +21,7 @@ int main()
 	int act_time = 50;
 	int number_of_robots = 1;
 	int number_of_goals = 4; //Set 0 goals to run PUWL
-	float zoom_multiplier = 4;
+	float zoom_multiplier = 1.1;
 	int quad_select = 1; //selected quadrant for control	
 
 	int frame_num = 0;
@@ -51,7 +51,7 @@ int main()
 			//Set process as frames from the computer
 			processor.setFrameProcess("D:/OneDrive - purdue.edu/Research/Serpentine Coil/Benji/Visual/repos/LIVE_RESULTS_CONT/frame_"); //For pointgrey flycap
 			//If image needs to be cropped, specify here
-			processor.crop_frame(222, 193, 904, 880);
+			processor.crop_frame(205, 175, 725, 730);
 			//Set up arduino for auto Control
 			processor.set_arduino("\\\\.\\COM8", false, number_of_goals);
 
@@ -73,7 +73,7 @@ int main()
 			//processor.setFrameProcess(fig_path, 275, 350);
 			processor.setFrameProcess("D:/OneDrive - purdue.edu/Research/Serpentine Coil/Benji/Visual/repos/LIVE_RESULTS_CONT/frame_"); //For pointgrey flycap
 			//If image needs to be cropped, specify here
-			processor.crop_frame(222, 193, 682, 687);
+			processor.crop_frame(205, 175, 725, 730);
 			processor.set_arduino("\\\\.\\COM8", true, quad_select);
 			//processor.run(pause_time, zoom_multiplier);
 			processor.set_numRobots(number_of_robots);

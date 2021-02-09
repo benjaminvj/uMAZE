@@ -268,12 +268,12 @@ public:
 			high_V = 255;
 			*/
 			//Zoom Test 2
-			low_H = 120;
+			low_H = 0;
 			high_H = 180;
-			low_S = 85;
-			high_S = 195;
-			low_V = 0;
-			high_V = 255;
+			low_S = 118;
+			high_S = 255;
+			low_V = 183;
+			high_V = 190;
 			break;
 		}
 		case 'b': {
@@ -305,12 +305,12 @@ public:
 			high_V = 255;
 			*/
 			//Zoom Experiment 2
-			low_H = 112;
-			high_H = 128;
-			low_S = 183;
-			high_S = 255;
-			low_V = 0;
-			high_V = 255;
+			low_H = 37;
+			high_H = 180;
+			low_S = 123;
+			high_S = 214;
+			low_V = 114;
+			high_V = 180;
 			break;
 		}
 		default: {
